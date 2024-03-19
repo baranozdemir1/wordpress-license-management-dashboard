@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradient-brand {
+  background: url("/rm218-bb-07.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
